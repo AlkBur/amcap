@@ -1,3 +1,2 @@
 # amcap
-webcam 
-Show dialod window "Capture Filter"
+Show dialod window "Capture Filter" for webcam
